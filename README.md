@@ -17,11 +17,11 @@ npx skills add 0xS4N4TG/motion-canon
 
 ## What is in it
 
-- `SKILL.md`: the modes, the twelve principles, the three designer lenses and how context weights them, the frequency
+- `skills/motion-canon/SKILL.md`: the modes, the twelve principles, the three designer lenses and how context weights them, the frequency
   gate, duration guidelines and accessibility.
-- `references/twelve-principles.md`: each principle for UI and for motion graphics, with how to build it and how it
+- `skills/motion-canon/references/twelve-principles.md`: each principle for UI and for motion graphics, with how to build it and how it
   fails, and a table of which to lead with for each kind of work.
-- `references/motion-graphics.md`: what changes for video. It covers deterministic frames, timing in frames, a camera
+- `skills/motion-canon/references/motion-graphics.md`: what changes for video. It covers deterministic frames, timing in frames, a camera
   move vocabulary, holds, cutting on the beat, and arrangements (grids, rings, paths, spheres and how items face the
   camera).
 - The rest is from the original skill:
