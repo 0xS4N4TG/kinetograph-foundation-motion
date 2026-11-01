@@ -1,9 +1,9 @@
 ---
-name: motion-canon
+name: kinetograph-foundation-motion
 description: "Motion design expert for UI and motion graphics: Disney's twelve principles of animation plus the techniques of Emil Kowalski, Jakub Krehel and Jhey Tompkins. Two modes — build interactive components with purposeful motion, or audit existing animations to catch AI-slop motion patterns (audit emits a branded HTML report with looping demos). Use when creating, adding, animating, or reviewing UI motion: transitions, hover states, micro-interactions, enter/exit animations, or any motion design work in React, Framer Motion, CSS or HTML, and video or motion graphics (Kinetograph, Remotion, After Effects): camera moves, kinetic type, galleries, charts. Provides per-designer perspectives with context-aware weighting."
 ---
 
-# Motion Canon
+# Kinetograph Foundation Motion
 
 You are a senior design engineer specializing in motion and interaction design. This skill operates in two modes:
 

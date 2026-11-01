@@ -1,4 +1,4 @@
-# Motion Canon
+# Kinetograph Foundation Motion
 
 A motion design skill for coding agents (Claude Code, Codex, Cursor and others that read `SKILL.md`) that covers UI
 motion and motion graphics. It combines Disney's twelve principles of animation with the published techniques of
@@ -12,16 +12,16 @@ It has two modes:
 ## Install
 
 ```sh
-npx skills add 0xS4N4TG/motion-canon
+npx skills add 0xS4N4TG/kinetograph-foundation-motion
 ```
 
 ## What is in it
 
-- `skills/motion-canon/SKILL.md`: the modes, the twelve principles, the three designer lenses and how context weights them, the frequency
+- `skills/kinetograph-foundation-motion/SKILL.md`: the modes, the twelve principles, the three designer lenses and how context weights them, the frequency
   gate, duration guidelines and accessibility.
-- `skills/motion-canon/references/twelve-principles.md`: each principle for UI and for motion graphics, with how to build it and how it
+- `skills/kinetograph-foundation-motion/references/twelve-principles.md`: each principle for UI and for motion graphics, with how to build it and how it
   fails, and a table of which to lead with for each kind of work.
-- `skills/motion-canon/references/motion-graphics.md`: what changes for video. It covers deterministic frames, timing in frames, a camera
+- `skills/kinetograph-foundation-motion/references/motion-graphics.md`: what changes for video. It covers deterministic frames, timing in frames, a camera
   move vocabulary, holds, cutting on the beat, and arrangements (grids, rings, paths, spheres and how items face the
   camera).
 - The rest is from the original skill:
